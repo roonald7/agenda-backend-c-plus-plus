@@ -32,4 +32,8 @@
 *.app
 
 # Build
-*./build
+/build/.cache/clangd/index
+/build/*
+/.vscode
+/.cache/clangd/index
+/CMakeFiles
