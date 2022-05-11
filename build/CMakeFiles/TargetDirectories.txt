@@ -1,5 +1,0 @@
-/Users/ronaldanderson/Desktop/c-plus-plus/agenda-backend-c-plus-plus/build/CMakeFiles/AgendaSRCS.dir
-/Users/ronaldanderson/Desktop/c-plus-plus/agenda-backend-c-plus-plus/build/CMakeFiles/Agenda.dir
-/Users/ronaldanderson/Desktop/c-plus-plus/agenda-backend-c-plus-plus/build/CMakeFiles/run.dir
-/Users/ronaldanderson/Desktop/c-plus-plus/agenda-backend-c-plus-plus/build/CMakeFiles/edit_cache.dir
-/Users/ronaldanderson/Desktop/c-plus-plus/agenda-backend-c-plus-plus/build/CMakeFiles/rebuild_cache.dir
